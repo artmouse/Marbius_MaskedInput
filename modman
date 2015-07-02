@@ -1,0 +1,5 @@
+app/code/local/Marbius/PhoneMask/Helper/Data.php app/code/local/Marbius/PhoneMask/Helper/Data.php
+app/code/local/Marbius/PhoneMask/etc/config.xml app/code/local/Marbius/PhoneMask/etc/config.xml
+app/etc/modules/Marbius_PhoneMask.xml app/etc/modules/Marbius_PhoneMask.xml
+app/locale/ru_RU/Marbius_PhoneMask.csv app/locale/ru_RU/Marbius_PhoneMask.csv
+app/locale/en_US/Marbius_PhoneMask.csv app/locale/en_US/Marbius_PhoneMask.csv
