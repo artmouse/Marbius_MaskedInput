@@ -1,5 +1,7 @@
-app/code/local/Marbius/PhoneMask/Helper/Data.php app/code/local/Marbius/PhoneMask/Helper/Data.php
-app/code/local/Marbius/PhoneMask/etc/config.xml app/code/local/Marbius/PhoneMask/etc/config.xml
-app/etc/modules/Marbius_PhoneMask.xml app/etc/modules/Marbius_PhoneMask.xml
-app/locale/ru_RU/Marbius_PhoneMask.csv app/locale/ru_RU/Marbius_PhoneMask.csv
-app/locale/en_US/Marbius_PhoneMask.csv app/locale/en_US/Marbius_PhoneMask.csv
+app/code/local/Marbius/MaskedInput/Helper/Data.php app/code/local/Marbius/MaskedInput/Helper/Data.php
+app/code/local/Marbius/MaskedInput/etc/config.xml app/code/local/Marbius/MaskedInput/etc/config.xml
+app/etc/modules/Marbius_MaskedInput.xml app/etc/modules/Marbius_MaskedInput.xml
+app/locale/ru_RU/Marbius_MaskedInput.csv app/locale/ru_RU/Marbius_MaskedInput.csv
+app/locale/en_US/Marbius_MaskedInput.csv app/locale/en_US/Marbius_MaskedInput.csv
+js/marbius/maskedinput/jquery.maskedinput.js.txt js/marbius/maskedinput/jquery.maskedinput.js.txt
+js/marbius/maskedinput/jquery.maskedinput.min.js.txt js/marbius/maskedinput/jquery.maskedinput.min.js.txt
